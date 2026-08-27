@@ -94,11 +94,11 @@ Cinematic long shot with forward tracking: In a frozen wasteland under a black s
 A man runs down a dark alley at night with a gun in his hand. Handheld 35mm medium shot tracks behind him, then whip-pans as he checks a corner. Dim streetlights, rising steam, cold breath. Slow motion pulse as he lifts the gun. He mutters, “Of course it had to be this alley…”
 ```
 
-### 3. tiktok 风格的影响者视频
+### 3. TikTok-style influencer product video
 *by [@hellokaton](https://x.com/hellokaton)*
 
 ```
-tiktok 风格的影响者视频。一位年轻的中国女性举起并谈论这个产品，她用清晰的中文说到："欢迎大家来尝试我们家新出的 katon 音响，音质超一流，支持 ChatGPT"，用手机拍摄的低质量业余视频。
+TikTok-style influencer video. A young woman holds up the product and talks about it, saying clearly: "Hey everyone, come try our brand-new Katon speaker — top-tier sound quality, with ChatGPT built in", shot as a low-quality amateur phone video.
 ```
 
 ### 4. Please enjoy, in order: GTA, Pokemon, Mario Kart, The Wi…
@@ -166,11 +166,11 @@ dog bed",
 }
 ```
 
-### 8. Photorealistic cinematic shot of an empty [未来主义极简风格] bed…
+### 8. Photorealistic cinematic shot of an empty [futuristic-minimalist] bed…
 *by [@oran_ge](https://x.com/oran_ge)*
 
 ```
-Photorealistic cinematic shot of an empty [未来主义极简风格] bedroom with white wood floors and soft daylight streaming in. A sealed [印有'Orange AI'标志的金属科技箱] sits in the center. It wiggles, then bursts open in a bright, [橙色] sparkly puff. The room transforms instantly into a [未来科技实验室] sanctuary. No text. 风格: photorealistic cinematic 镜头: fixed wide angle, front-facing for symmetrical reveal 灯光: soft, diffused natural light with subtle [橙色] glow accents 房间: blank [未来主义极简风格] bedroom transformed into a [未来科技实验室] sanctuary 核心元素: [印有'Orange AI'标志的金属科技箱] (logo and details visible) [全息数据显示屏和人体工学指挥椅] plushies ([瓦力机器人模型], [MOSS核心单元模型], [大白模型], [塔奇克马模型]) wall art or framed posters of [J.A.R.V.I.S.界面] and their world floating shelves with figurines and [橙色] accessories vanity with mirror and [橙色] chair [AI实验室] lamp or a neon sign of a [大脑神经元符号] [电路板图案] rug or fluffy floor mat [机器人头盔]-shaped throw pillows 动态: [印有'Orange AI'标志的金属科技箱] opens, themed [人工智能] items explode out and assemble rapidly and precisely, [一只拟人化的橘子出现在桌前对着麦克风说话] 结局: soft, cozy [未来科技实验室] room glowing with [橙色] warmth and [智能与创新] charm 文本: none 关键词: 16:9, [人工智能], [科幻电影], [橙色] bedroom, fast assembly, no text, photorealistic, [橙色] explosion, [智能与创新]
+Photorealistic cinematic shot of an empty [futuristic minimalist] bedroom with white wood floors and soft daylight streaming in. A sealed [a metallic tech crate stamped with the 'Orange AI' logo] sits in the center. It wiggles, then bursts open in a bright, [orange] sparkly puff. The room transforms instantly into a [futuristic tech lab] sanctuary. No text. Style: photorealistic cinematic Camera: fixed wide angle, front-facing for symmetrical reveal Lighting: soft, diffused natural light with subtle [orange] glow accents Room: blank [futuristic minimalist] bedroom transformed into a [futuristic tech lab] sanctuary Core elements: [a metallic tech crate stamped with the 'Orange AI' logo] (logo and details visible) [holographic data displays and an ergonomic command chair] plushies ([a WALL-E robot figure], [a MOSS core-unit model], [a Baymax figure], [a Tachikoma figure]) wall art or framed posters of [the J.A.R.V.I.S. interface] and their world floating shelves with figurines and [orange] accessories vanity with mirror and [orange] chair [AI-lab] lamp or a neon sign of a [a brain-neuron symbol] [circuit-board pattern] rug or fluffy floor mat [robot-helmet]-shaped throw pillows Motion: [a metallic tech crate stamped with the 'Orange AI' logo] opens, themed [artificial-intelligence] items explode out and assemble rapidly and precisely, [an anthropomorphic orange appears at the desk, speaking into a microphone] Ending: soft, cozy [futuristic tech lab] room glowing with [orange] warmth and [intelligence-and-innovation] charm Text: none Keywords: 16:9, [artificial intelligence], [sci-fi film], [orange] bedroom, fast assembly, no text, photorealistic, [orange] explosion, [intelligence and innovation]
 ```
 
 ### 9. A warmly lit living room at night, seen from an angle th…
@@ -187,43 +187,43 @@ A warmly lit living room at night, seen from an angle that shows the couple on a
 Anime-style combat sequence: two rivals fight in an abandoned factory — the camera bounces with each impact, handheld-style — steel sparks, crates shatter, and their final clash sends a shockwave through the walls
 ```
 
-### 11. 在一个充满趣味的一镜到底镜头中，经典的乐高标志将分解为无数色彩斑斓的积木颗粒，并在空中自动拼搭成一个充满想象力的…
+### 11. Playful one-shot: the LEGO logo explodes into bricks and self-assembles in mid-air
 *by [@op7418](https://x.com/op7418)*
 
 ```
-在一个充满趣味的一镜到底镜头中，经典的乐高标志将分解为无数色彩斑斓的积木颗粒，并在空中自动拼搭成一个充满想象力的模型。
+In a playful single-take shot, the classic LEGO logo breaks apart into countless colorful bricks that self-assemble in mid-air into an imaginative model.
 
-详细场景描述:
+Detailed scene description:
 
-画面始于一个纯白背景前，标志性的红色方形乐高（LEGO）标志静静悬浮。整个过程将由一个流畅、不间断的镜头完成。 标志突然轻微晃动，随后“咔”的一声，它分解为“L-E-G-O”四个独立的字母积木。紧接着，这四个字母再次爆开，化作一场五彩斑斓的积木“阵雨”倾泻而下。这些红、黄、蓝、白的标准积木颗粒在空中飞舞、旋转，被一股无形的力量牵引，以极快的速度和精准度相互“咔哒、咔哒”地扣合在一起。镜头可以跟随其中一块关键积木，看它如何找到自己的位置。最终，这些积木在空中完美地拼装成一个活泼的乐高小汽车模型。
+The shot opens on a pure white background with the iconic red square LEGO logo floating quietly. The entire sequence unfolds in one smooth, unbroken take. The logo suddenly trembles, then — with a click — splits into the four separate letter bricks "L-E-G-O". These letters then burst apart into a colorful "shower" of bricks raining down. Standard red, yellow, blue, and white bricks tumble and spin through the air, pulled by an invisible force, snapping together click-by-click with extreme speed and precision. The camera may follow one key brick as it finds its place. Finally, the bricks assemble perfectly in mid-air into a lively LEGO toy car.
 
-核心创意: 标志的解构与充满乐趣的重组。
+Core idea: deconstruction of the logo and its joyful reassembly.
 
-镜头与运镜: 严格的一镜到底（Single take / One-shot），可以带有趣味性的轻微环绕运镜，以展现拼搭过程的动态感。
+Camera: strict single take / one-shot, optionally with a playful slight orbit to showcase the dynamic build.
 
-整体风格: 充满童趣、活泼、有创造力、令人满足。
+Overall style: childlike, lively, creative, satisfying.
 
-灯光: 明亮、均匀、欢快的影棚灯光，让积木的色彩显得格外鲜艳。
+Lighting: bright, even, cheerful studio lighting that makes the brick colors pop.
 
-环境: 纯白或浅灰色的极简背景，以最大限度地突出乐高积木的色彩。
+Environment: pure white or light-gray minimalist background to maximize the LEGO colors.
 
-核心元素:
+Core elements:
 
-经典的乐高标志
+The classic LEGO logo
 
-分解后飞舞的各色积木颗粒
+Colorful bricks flying after the break-up
 
-空中自动拼搭的过程
+The mid-air self-assembly process
 
-最终成型的乐高模型
+The finished LEGO model
 
-音效:
+Sound:
 
-背景音乐: 轻快、俏皮的旋律，可使用木琴、打击乐等乐器。
+Background music: light, playful melody — xylophone, percussion.
 
-特效音: 整个过程的核心是乐高积木相互扣合时清脆、悦耳、富有节奏感的“咔哒”声。
+SFX: the heart of the piece is the crisp, rhythmic "click-click" of LEGO bricks snapping together.
 
-结尾: 拼搭完成的乐高模型完美地静置在画面中央。画面淡出为白色。全程无任何文字。
+Ending: the completed LEGO model rests perfectly at center frame. Fade to white. No text throughout.
 ```
 
 *Add yours via a PR — keep the original author's credit. See [Contributing](#contributing).*
