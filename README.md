@@ -1,15 +1,15 @@
 # Awesome Wan API 🌊 — Prompts, Variants & One-Call Video Generation
 
-> The most complete open guide to **Alibaba Wan — the open frontier AI video model (Wan 2.2 · 2.5 · 3.0)** — a community prompt library and a single API to run every variant.
+> The most complete open guide to **Alibaba Wan — the open frontier AI video model (Wan 3.0 · 3.0 Prime · 2.7 · 2.2)** — a community prompt library and a single API to run every variant.
 
 <p align="center">
   <a href="https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><img src="https://img.shields.io/badge/▶_Run_Wan_3.0-Get_API_Key-00E5FF?style=for-the-badge&labelColor=0B0B0F" alt="Run Wan 3.0"></a>
-  <a href="https://wavespeed.ai/wan-2-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><img src="https://img.shields.io/badge/Wan_2.2-Try_Now-7C3AED?style=for-the-badge&labelColor=0B0B0F" alt="Wan 2.2"></a>
+  <a href="https://wavespeed.ai/wan-2-7-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><img src="https://img.shields.io/badge/Wan_2.7-Try_Now-7C3AED?style=for-the-badge&labelColor=0B0B0F" alt="Wan 2.7"></a>
 </p>
 
 <p align="center">
   <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api">WaveSpeedAI</a> — serverless Wan API, pay-as-you-go, zero cold starts.</b><br>
-  <a href="https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><b>→ Get a Wan 3.0 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/wan-2-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><b>→ Try Wan 2.2</b></a>
+  <a href="https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><b>→ Get a Wan 3.0 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/wan-2-7-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api"><b>→ Try Wan 2.7</b></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## What is Wan?
 
-**Wan** is Alibaba's frontier AI video model. Text or image in, high-motion video out, with strong prompt adherence, multi-shot consistency, and native audio on the 2.5+ line. WaveSpeed serves the full family — Wan 2.2, 2.5, 2.6, 2.7 and the latest **Wan 3.0 / 3.0-prime**.
+**Wan** is Alibaba's frontier AI video model. Text or image in, high-motion video out, with strong prompt adherence, multi-shot consistency, and native audio on the 2.5+ line. WaveSpeedAI serves the full family — the latest **Wan 3.0 / 3.0 Prime** (text, image and reference to video, video edit, video extend, 2 to 30 second clips), Wan 2.7 (video plus image generation and editing) and Wan 2.2.
 
 ---
 
@@ -68,11 +68,17 @@ curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
 
 All variants open in-browser with a copy-paste API snippet.
 
-### Wan 3.0 — flagship &nbsp;[▶ API](https://wavespeed.ai/wan-3-api)
-[text-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video) · [image-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/image-to-video) · [reference-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/reference-to-video) · [3.0-prime t2v](https://wavespeed.ai/models/alibaba/wan-3.0-prime/text-to-video)
+### Wan 3.0 — flagship &nbsp;[▶ API](https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+[text-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [image-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [reference-to-video](https://wavespeed.ai/models/alibaba/wan-3.0/reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [video-edit](https://wavespeed.ai/models/alibaba/wan-3.0/video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [video-extend](https://wavespeed.ai/models/alibaba/wan-3.0/video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
 
-### Wan 2.5 &nbsp;[▶ API](https://wavespeed.ai/wan-2-6-api)
-[text-to-video](https://wavespeed.ai/models/alibaba/wan-2.5/text-to-video) · [image-to-video](https://wavespeed.ai/models/alibaba/wan-2.5/image-to-video) · [text-to-image](https://wavespeed.ai/models/alibaba/wan-2.5/text-to-image) · [video-extend](https://wavespeed.ai/models/alibaba/wan-2.5/video-extend)
+### Wan 3.0 Prime &nbsp;[▶ API](https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+[text-to-video](https://wavespeed.ai/models/alibaba/wan-3.0-prime/text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [image-to-video](https://wavespeed.ai/models/alibaba/wan-3.0-prime/image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [reference-to-video](https://wavespeed.ai/models/alibaba/wan-3.0-prime/reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+
+### Wan 2.7 &nbsp;[▶ API](https://wavespeed.ai/wan-2-7-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+[text-to-video](https://wavespeed.ai/models/alibaba/wan-2.7/text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [image-to-video](https://wavespeed.ai/models/alibaba/wan-2.7/image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [reference-to-video](https://wavespeed.ai/models/alibaba/wan-2.7/reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [video-edit](https://wavespeed.ai/models/alibaba/wan-2.7/video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [image-edit](https://wavespeed.ai/models/alibaba/wan-2.7/image-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [text-to-image](https://wavespeed.ai/models/alibaba/wan-2.7/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+
+### Wan 2.2 &nbsp;[▶ API](https://wavespeed.ai/wan-2-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
+[t2v 720p](https://wavespeed.ai/models/wavespeed-ai/wan-2.2/t2v-720p?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [i2v 720p](https://wavespeed.ai/models/wavespeed-ai/wan-2.2/i2v-720p?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [animate](https://wavespeed.ai/models/wavespeed-ai/wan-2.2/animate?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api) · [speech-to-video](https://wavespeed.ai/models/wavespeed-ai/wan-2.2/speech-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)
 
 > Full catalog: **[wavespeed.ai/wan-3-api](https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)**
 
