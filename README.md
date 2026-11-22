@@ -60,6 +60,8 @@ curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
 
 **[→ Get your Wan 3.0 API key](https://wavespeed.ai/wan-3-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-wan-api)** · pay-as-you-go, live pricing on each model page.
 
+**Python wrapper:** [wan-3.0-api](https://github.com/WaveSpeedAI/wan-3.0-api) — one typed function per Wan 3.0 endpoint, built on the official SDK.
+
 ---
 
 ## Model Variants
